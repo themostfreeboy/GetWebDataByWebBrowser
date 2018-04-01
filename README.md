@@ -1,1 +1,2 @@
 # GetWebDataByWebBrowser
+使用WebBrowser获取网页数据
